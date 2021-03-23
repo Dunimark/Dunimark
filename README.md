@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Wsusworkgroup](https://github.com/dunimark/wsusworkgroup)
+🔭 I’m currently working on [wsusworkgroup](https://github.com/dunimark/wsusworkgroup)
 
 <!--
 **Dunimark/Dunimark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
