@@ -1,6 +1,6 @@
 [German Version]
 ### Hallo 👋
-⌨ Ich bin Dunimark ein junger Entwickler aus Deutschland. Meine Hauptprogrammiersprachen sind C# und Java aber ich präferie am meisten C#.
+⌨ Ich bin Dunimark ein junger Entwickler aus Deutschland. Meine Hauptprogrammiersprachen sind C# und Java aber ich präferiere am meisten C#.
 
 🔭 Ich arbeite aktuell an [wsusworkgroup](https://github.com/dunimark/wsusworkgroup)
 
