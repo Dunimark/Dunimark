@@ -1,14 +1,10 @@
-[German Version]
-### Hallo 👋
-⌨ Ich bin Dunimark ein junger Entwickler aus Deutschland. Meine Hauptprogrammiersprachen sind C# und Java aber ich präferiere am meisten C#.
-
-🔭 Ich arbeite aktuell an [wsusworkgroup](https://github.com/dunimark/wsusworkgroup)
-
-
-[English Version]
 ### Hi there 👋
 
-⌨ I'm Dunimark (he/him) a young Developer from Germany. My Main Programming languages are C# and Java but i prefere mostly C#.
+⌨ I'm Dunimark (he/him) a Developer from Germany. 
+
+Mainly I write my programs in C#. 
+
+Some projects are also done with Python, Java or C++.
 
 🔭 I’m currently working on [wsusworkgroup](https://github.com/dunimark/wsusworkgroup)
 
