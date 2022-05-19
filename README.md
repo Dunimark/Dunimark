@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⌨ I'm Dunimark (he/him) a Developer from Germany. 
+⌨ I'm Dunimark (he/him) and i'm a Developer from Germany. 
 
 Mainly I write my programs in C#. 
 
