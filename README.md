@@ -4,7 +4,7 @@
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunimark&count_private=true&layout=compact&hide_title=true&theme=github_dark)](https://github.com/dunimark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunimark&count_private=true&layout=compact&hide_title=true&theme=github_dark)]
 
 ## My Activity
 ![Dunimark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunimark&count_private=true&show_icons=true&theme=github_dark)
