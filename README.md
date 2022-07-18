@@ -4,10 +4,7 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunimark&langs_count=8&layout=compact&hide_title=true&theme=github_dark)
-
-## My Activity
-![Dunimark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunimark&count_private=true&show_icons=true&theme=github_dark)
+![Dunimark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunimark&count_private=true&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunimark&langs_count=8&layout=compact&hide_title=false&theme=github_dark)
 
 ## Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dunimark&repo=admintools&theme=github_dark&show_owner=true)](https://github.com/dunimark/admintools)
