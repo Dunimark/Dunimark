@@ -1,9 +1,8 @@
 # Hi 👋 My name is Dunimark
 
-## Hobby Fullstack Developer
+## Fullstack Developer
 
 - 🌍  I'm based in Germany
-- 🚀  I'm currently working on [Trusted_System](http://github.com/dunimark/Trusted_System)
 
 ### Skills
 
