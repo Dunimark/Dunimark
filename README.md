@@ -1,8 +1,8 @@
 # Hi 👋 My name is Dunimark
 
-## Fullstack Developer
+## hobbyist
 
-- 🌍  I'm based in Germany
+- 🌍  Based in Germany
 
 ### Skills
 
